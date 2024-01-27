@@ -1,3 +1,7 @@
+# Stage, Commit & Push in a single command
+```bash
+git add . ; git commit -m "this is a commit message" ; git push
+```
 # Stage all changed files
 ```bash
 git add .
@@ -9,10 +13,6 @@ git commit -m "this is a commit message"
 # Push codes in remote server (Github/Gitlab/Bitbucket)
 ```bash
 git push
-```
-# Stage, Commit & Push in a single command
-```bash
-git add . ; git commit -m "this is a commit message" ; git push
 ```
 # Pull codes from remote server (Github/Gitlab/Bitbucket)
 ```bash
