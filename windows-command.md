@@ -1,4 +1,4 @@
-# Commands for windwos
+# Commands for windows
 ## URL to QR Code
  * Input
 ```bash
