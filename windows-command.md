@@ -4,5 +4,5 @@
 ```bash
 curl qrenco.de/https://github.com/rakib3004
 ```
- * Output
+ * Output  
 ![QR Code](https://github.com/rakib3004/shortcuts/blob/main/images/QR-Code.png)
