@@ -5,4 +5,4 @@
 curl qrenco.de/https://github.com/rakib3004
 ```
  * Output
-QR Code
+![QR Code](https://github.com/rakib3004/shortcuts/blob/main/images/QR-Code.png)
